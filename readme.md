@@ -29,6 +29,7 @@ I upload here what I find necessary to support me or the students in the tutoria
 ## References
 - [Course Home Page on ALeA](https://alea.education/FAU/ai-2/SS26)
 - [Lecture Recordings](https://www.fau.tv/series/artificial-intelligence-ii-ss26-s26)
+- [Matrix Space](https://matrix.to/#/#ai12:fau.de)
 - [Previous Exams](https://kwarc.info/teaching/AI/exams/) (`SSYY`)
 - <p>Russell, S. & Norvig, P. (2021). Artificial Intelligence, Global Edition. (4th ed.). Pearson Education. https://elibrary.pearson.de/book/99.150005/9781292401171</p>
 
