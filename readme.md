@@ -34,6 +34,7 @@ I upload here what I find necessary to support me or the students in the tutoria
 - <p>Russell, S. & Norvig, P. (2021). Artificial Intelligence, Global Edition. (4th ed.). Pearson Education. https://elibrary.pearson.de/book/99.150005/9781292401171</p>
 
 ## Helpful YouTube
+- [Stanford CS109](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 - [Stanford CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 - [Berkeley AI](https://www.youtube.com/@berkeleyai9553/videos)
 - [Alice Gao](https://www.youtube.com/@alicexigao)
