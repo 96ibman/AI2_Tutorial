@@ -2,3 +2,10 @@
 - Date: 23/04/2026
 - You can find the provided assignment sheet in [`a1.pdf`](a1.pdf)
 - You can find the provided master solution in [`a1_solved.pdf`](a1_solved.pdf)
+- Helpful YouTube:
+    - [Measure Theory](https://youtu.be/xZ69KEg7ccU)
+    - [Probability Theory](https://youtu.be/u5IouBwYji4)
+    - [Kolmogorov Axioms](https://youtu.be/uAjGJNolhbs)
+    - [Marginal, Joint and Conditional Probabilities](https://youtu.be/xu-HhF3SpbE)
+    - [Conditional Independence](https://youtu.be/YGyx4pkKP3Q)
+    - [Product Rule](https://youtu.be/BQrQBnsKUOU)
