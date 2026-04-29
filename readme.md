@@ -36,5 +36,6 @@ I upload here what I find necessary to support me or the students in the tutoria
 ## Helpful YouTube
 - [Stanford CS109](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 - [Stanford CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-- [Berkeley AI](https://www.youtube.com/@berkeleyai9553/videos)
+- [UC Berkeley AI 2015/16](https://www.youtube.com/@berkeleyai9553/videos)
 - [Alice Gao](https://www.youtube.com/@alicexigao)
+- [UC Berkeley AI 2023/24](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)

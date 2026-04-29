@@ -9,3 +9,4 @@
     - [Marginal, Joint and Conditional Probabilities](https://youtu.be/xu-HhF3SpbE)
     - [Conditional Independence](https://youtu.be/YGyx4pkKP3Q)
     - [Product Rule](https://youtu.be/BQrQBnsKUOU)
+    - [Intro to Probability](https://youtu.be/rzcZqPAeWVs)
