@@ -14,7 +14,7 @@ I upload here what I find necessary to support me or the students in the tutoria
 ## Individual Dates (`DD/MM/YYYY`)
 1. [23/04/2026](/01)
 2. [30/04/2026](/02/)
-3. 07/05/2026
+3. [07/05/2026](/03/)
 4. ~~14/05/2026~~ (cancelled)
 5. 21/05/2026
 6. 28/05/2026
