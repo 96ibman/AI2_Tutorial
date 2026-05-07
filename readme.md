@@ -26,6 +26,16 @@ I upload here what I find necessary to support me or the students in the tutoria
 12. 09/07/2026
 13. 16/07/2026
 
+## Notes
+- The AI2 lectures take place on Tuesdays and Wednesdays. 
+- The material from each week's lectures is discussed in the following tutorial slots:
+    - Thursday 10:15 (same week) 
+    - Thursday 14:15 (same week) (**My slot**)
+    - Friday 10:15 (same week)
+    - Monday 16:15 (following week)
+    - Tuesday 14:15 (following week)
+- Because all these slots cover the exact same material, if you ever miss my tutorial, you can easily catch up by attending any of the other available sessions.
+
 ## References
 - [Course Home Page on ALeA](https://alea.education/FAU/ai-2/SS26)
 - [Lecture Recordings](https://www.fau.tv/series/artificial-intelligence-ii-ss26-s26)
