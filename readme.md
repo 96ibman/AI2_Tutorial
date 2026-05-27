@@ -17,7 +17,7 @@ I upload here what I find necessary to support me or the students in the tutoria
 3. [07/05/2026](/03/)
 4. [~~14/05/2026~~ (cancelled)](/04/)
 5. [21/05/2026](/05/)
-6. 28/05/2026
+6. [28/05/2026](/06/)
 7. ~~04/06/2026~~ (cancelled)
 8. 11/06/2026
 9. 18/06/2026
