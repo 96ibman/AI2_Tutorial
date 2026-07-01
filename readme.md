@@ -3,6 +3,8 @@ I upload here what I find necessary to support me or the students in the tutoria
 
 ## Updates
 
+> **July 2, 2026:** As promised, I have now completed a comprehensive summary of the lecture. It is available [here](https://github.com/96ibman/Subsymbolic-AI). The document includes all formal definitions covered in the lecture, additional explanations to clarify key concepts, detailed mathematical derivations omitted from the slides due to space constraints, as well as worked examples and step-by-step walkthroughs.
+
 ## Tutorial Info
 - **Tutor**: Ibrahim Nasser
 - **Language**: English
